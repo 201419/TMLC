@@ -4,9 +4,9 @@
 
 2. 转换和归一化数据
 
-''' Python
+``` Python
 data = tf.nn.batch_norm_with_global_normalization(...)
-'''
+```
 
 3. 划分样本数据集为训练样本集、测试样本集和验证样本集
 
@@ -14,11 +14,11 @@ data = tf.nn.batch_norm_with_global_normalization(...)
 
 5. 初始化变量和占位符
 
-''' Python
+``` Python
 a_var = tf.constant(42)
 x_input = tf.placeholder(tf.float32, [None, input_size])
 y_input = tf.placeholder(tf.float32, [None, num_classes])
-'''
+```
 
 6. 定义模型结构
 
