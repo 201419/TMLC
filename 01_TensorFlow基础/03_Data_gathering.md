@@ -10,5 +10,6 @@ Here are the sources of the data sets used in this book.  The following links ar
  4. [MNIST Dataset of Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
  5. [SMS Spam Data](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
  6. [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
- 7. [William Shakespeare Data](http://www.gutenberg.org/ebooks/100)
- 8. [German-English Sentence Data](http://www.manythings.org/anki/)
+ 7. [CIFAR-10 Image Data](http://www.cs.toronto.edu/~kriz/cifar.html)
+ 8. [William Shakespeare Data](http://www.gutenberg.org/ebooks/100)
+ 9. [German-English Sentence Data](http://www.manythings.org/anki/)
