@@ -36,3 +36,10 @@
  - [Distributed TensorFlow with MPI](https://arxiv.org/abs/1603.02339)
  - [Comparative Study of Deep Learning Software Frameworks](https://arxiv.org/abs/1511.06435)
  - [Wide & Deep Learning for Recommender Systems](https://arxiv.org/abs/1606.07792)
+
+###Others
+
+ - TensorFlow在[Dockerhub](https://hub.docker.com/r/tensorflow/tensorflow/)上维护的公开Docker镜像
+ - [Stack Overflow](http://stackoverflow.com/questions/tagged/TensorFolw)上有TensorFlow标签的知识问答
+ - 深度学习开山祖师爷Geoffrey Hinton在Coursera上开课教授“[机器学习中的神经网络](https://www.coursera.org/learn/neural-networks)”
+ - 斯坦福大学提供在线课程“[用于视觉识别的卷积神经网络](http://cs231n.stanford.edu/)”及其详细的课件
