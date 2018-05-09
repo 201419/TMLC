@@ -6,7 +6,7 @@ Here are the sources of the data sets used in this book.  The following links ar
 
  1. [Iris Data](http://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
  2. [Low Birthweight Data](https://github.com/nfmcclure/tensorflow_cookbook/raw/master/01_Introduction/07_Working_with_Data_Sources/birthweight_data/birthweight.dat)
- 3. [Housing Price Data](https://archive.ics.uci.edu/ml/datasets/Housing)
+ 3. [Housing Price Data](https://archive.ics.uci.edu/ml/machine-learning-databases/housing/)
  4. [MNIST Dataset of Handwritten Digits](http://yann.lecun.com/exdb/mnist/)
  5. [SMS Spam Data](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
  6. [Movie Review Data](http://www.cs.cornell.edu/people/pabo/movie-review-data/)
